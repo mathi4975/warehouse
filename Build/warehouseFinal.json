@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "E370_Warehouse1",
+"productVersion": "0.1",
+"dataUrl": "warehouseFinal.data.unityweb",
+"wasmCodeUrl": "warehouseFinal.wasm.code.unityweb",
+"wasmFrameworkUrl": "warehouseFinal.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
